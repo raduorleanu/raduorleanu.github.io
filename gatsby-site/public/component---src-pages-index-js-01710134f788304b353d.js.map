@@ -1,0 +1,35 @@
+{
+    "version": 3,
+    "file": "component---src-pages-index-js-01710134f788304b353d.js",
+    "mappings": "sJAyBAA,EAAA,QAvBkBC,KACd,MAAAC,GAAwBC,EAAAA,EAAAA,UAAS,MAA1BC,EAAIF,EAAA,GAAEG,EAAOH,EAAA,GASpB,OAPAI,EAAAA,EAAAA,WAAU,KACNC,MAAM,cACDC,KAAKC,GAAKA,EAAEC,QACZF,KAAKH,GACLM,MAAM,SACZ,IAGCC,EAAAA,cAAA,QAAMC,MAAO,CAAEC,WAAY,aAAcC,QAAS,KAC9CH,EAAAA,cAAA,UAAI,sBACJA,EAAAA,cAAA,SAAG,+BAC6BA,EAAAA,cAAA,KAAGI,KAAK,cAAa,eAErDJ,EAAAA,cAAA,OAAKC,MAAO,CAAEI,WAAY,WAAYC,WAAY,UAAWH,QAAS,KACjEX,EAAOe,KAAKC,UAAUhB,EAAM,KAAM,GAAK",
+    "sources": [
+        "webpack://raduorleanu-gatsby-site/./src/pages/index.js"
+    ],
+    "sourcesContent": [
+        "import React, { useEffect, useState } from 'react';\r\n\r\nconst IndexPage = () => {\r\n    const [data, setData] = useState(null);\r\n\r\n    useEffect(() => {\r\n        fetch('/data.json')\r\n            .then(r => r.json())\r\n            .then(setData)\r\n            .catch(() => { });\r\n    }, []);\r\n\r\n    return (\r\n        <main style={{ fontFamily: 'sans-serif', padding: 20 }}>\r\n            <h1>Gatsby Data Server</h1>\r\n            <p>\r\n                Merged data is available at <a href=\"/data.json\">/data.json</a>\r\n            </p>\r\n            <pre style={{ whiteSpace: 'pre-wrap', background: '#f7f7f7', padding: 12 }}>\r\n                {data ? JSON.stringify(data, null, 2) : 'Loading...'}\r\n            </pre>\r\n        </main>\r\n    );\r\n};\r\n\r\nexport default IndexPage;\r\n"
+    ],
+    "names": [
+        "__webpack_exports__",
+        "IndexPage",
+        "_useState",
+        "useState",
+        "data",
+        "setData",
+        "useEffect",
+        "fetch",
+        "then",
+        "r",
+        "json",
+        "catch",
+        "React",
+        "style",
+        "fontFamily",
+        "padding",
+        "href",
+        "whiteSpace",
+        "background",
+        "JSON",
+        "stringify"
+    ],
+    "sourceRoot": ""
+}

@@ -1,0 +1,20 @@
+{
+    "version": 3,
+    "file": "component---src-pages-404-js-ce376412adb4aaa0eea8.js",
+    "mappings": "sMAGe,SAASA,IACpB,OACIC,EAAAA,cAACC,EAAAA,QAAM,KACHD,EAAAA,cAAA,QAAME,MAAO,CAAEC,QAAS,GAAIC,WAAY,eACpCJ,EAAAA,cAAA,UAAI,wBACJA,EAAAA,cAAA,SAAG,uDAInB",
+    "sources": [
+        "webpack://raduorleanu-gatsby-site/./src/pages/404.js"
+    ],
+    "sourcesContent": [
+        "import React from \"react\"\nimport Layout from \"./layout\"\n\nexport default function NotFound() {\n    return (\n        <Layout>\n            <main style={{ padding: 40, fontFamily: 'sans-serif' }}>\n                <h1>404 — Page not found</h1>\n                <p>Sorry, the page you are looking for doesn't exist.</p>\n            </main>\n        </Layout>\n    )\n}\n"
+    ],
+    "names": [
+        "NotFound",
+        "React",
+        "Layout",
+        "style",
+        "padding",
+        "fontFamily"
+    ],
+    "sourceRoot": ""
+}
