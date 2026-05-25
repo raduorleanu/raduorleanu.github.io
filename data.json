@@ -1,0 +1,213 @@
+{
+  "employee-management-system": {
+    "id": 1,
+    "date": "June 6 2017",
+    "description": "Semester 2 group project for VIA University. Built using JavaFx SceneBuilder.",
+    "git_link": "https://github.com/raduorleanu/SEP2",
+    "name": "Employee management system",
+    "story": "The second semester project we had at VIA University. This was more complex than the first one since the requirements were to build a client-server system that supported multiple clients and a database in Postgres. The team was the same as in the first semester, the difference was that we now used SCRUM as a project management tool, and this was a big part of the project. \nFull process report, project report and SCRUM documentation were required and can be provided. The profile pictures used in the project image are cached google image pictures.",
+    "web_link": "",
+    "media": "https://i.imgur.com/w0Ec2cX.png",
+    "media_pre": "https://i.imgur.com/tDCUE4u.jpg",
+    "techs": [
+      {
+        "id": 9,
+        "description": "A programming language by Sun/Oracle",
+        "name": "Java",
+        "pic_url": "https://i.imgur.com/DInGJq4.png",
+        "tech_type": "Compiled, programming language",
+        "url": "https://www.java.com/"
+      },
+      {
+        "id": 11,
+        "description": "An open-source SQL database",
+        "name": "Postgres",
+        "pic_url": "https://i.imgur.com/lvYS6WP.png",
+        "tech_type": "DB, SQL language",
+        "url": "https://www.postgresql.org/"
+      }
+    ]
+  },
+  "hotel-booking-system": {
+    "id": 2,
+    "date": "June 6 2017",
+    "description": "Semester 1 group project for VIA University. Built using JavaFx.",
+    "git_link": "https://github.com/raduorleanu/SEP1",
+    "name": "Hotel booking system",
+    "story": "The first semester group project we had at VIA. The task was to build a booking system for a hotel that was using an old ledger. No database was required so the data was stored in binary files as serialized Java Objects. This was a group project and I had 3 team members",
+    "web_link": "",
+    "media": "https://i.imgur.com/rH86sda.png",
+    "media_pre": "https://i.imgur.com/gR5Vp6u.png",
+    "techs": [
+      {
+        "id": 9,
+        "description": "A programming language by Sun/Oracle",
+        "name": "Java",
+        "pic_url": "https://i.imgur.com/DInGJq4.png",
+        "tech_type": "Compiled, programming language",
+        "url": "https://www.java.com/"
+      }
+    ]
+  },
+  "meet-at-mine": {
+    "id": 3,
+    "date": "December 7 2018",
+    "description": "SEP 4 Android project",
+    "git_link": "",
+    "name": "Meet at mine",
+    "story": "Android project I build together with Yusuf, Catalin and Kristian for the VIA Semester project. The requirement was to build a social app, we came up with the idea to build an app to organize meetings at someone's house, so we named it Meet at mine. Not much was learned from this project, since it looked so much like the Android project we did.",
+    "web_link": "",
+    "media": "https://i.imgur.com/kPNkmaK.jpg",
+    "media_pre": "https://i.imgur.com/CVkyJhy.jpg",
+    "techs": [
+      {
+        "id": 9,
+        "description": "A programming language by Sun/Oracle",
+        "name": "Java",
+        "pic_url": "https://i.imgur.com/DInGJq4.png",
+        "tech_type": "Compiled, programming language",
+        "url": "https://www.java.com/"
+      },
+      {
+        "id": 17,
+        "description": "A realtime database by Google, mostly used for mobile apps and web apps",
+        "name": "Firebase",
+        "pic_url": "https://i.imgur.com/hX9oLRT.png",
+        "tech_type": "NoSql Database",
+        "url": "https://firebase.google.com/"
+      },
+      {
+        "id": 18,
+        "description": "Mobile platform by Google",
+        "name": "Android",
+        "pic_url": "https://i.imgur.com/KSXDNQs.png",
+        "tech_type": "Mobile platform",
+        "url": "https://www.android.com/"
+      }
+    ]
+  },
+  "tic-tac-toe-game": {
+    "id": 4,
+    "date": "July 11 2016",
+    "description": "A project built for a class in 2018, the requirement was to build a TIC TAC TOE game.",
+    "git_link": "",
+    "name": "Tic Tac Toe Game",
+    "story": "A Tic Tac Toe game I needed to do for a university class.",
+    "web_link": "",
+    "media": "https://i.imgur.com/sGQkjTu.png",
+    "media_pre": "https://i.imgur.com/EprrFea.jpg",
+    "techs": [
+      {
+        "id": 3,
+        "description": "A CSS library for responsive web design",
+        "name": "Bootstrap",
+        "pic_url": "https://i.imgur.com/VgoB08x.png",
+        "tech_type": "Library, markup/CSS",
+        "url": "https://getbootstrap.com/"
+      },
+      {
+        "id": 4,
+        "description": "A library for web scripting",
+        "name": "jQuery",
+        "pic_url": "https://i.imgur.com/rIRlTiM.png",
+        "tech_type": "Library, javascript",
+        "url": "https://jquery.com/"
+      }
+    ]
+  },
+  "tribute-page": {
+    "id": 5,
+    "date": "June 13 2016",
+    "description": "A project built for freecodecamp.com in 2018, the requirement then were to build a tribute page for a random person.",
+    "git_link": "",
+    "name": "Tribute Page",
+    "story": "My first web project",
+    "web_link": "",
+    "media": "https://i.imgur.com/cKw4M7b.png",
+    "media_pre": "https://i.imgur.com/9Dv3GdK.jpg",
+    "techs": [
+      {
+        "id": 1,
+        "description": "A Javascript library by Facebook",
+        "name": "React",
+        "pic_url": "https://i.imgur.com/iHR5quf.png",
+        "tech_type": "Library, view engine",
+        "url": "https://reactjs.org/"
+      },
+      {
+        "id": 2,
+        "description": "A programming language used for scripting web browser",
+        "name": "Javascript",
+        "pic_url": "https://i.imgur.com/DuzCxrK.png",
+        "tech_type": "Interpreted/JIT, programming language",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+      },
+      {
+        "id": 3,
+        "description": "A CSS library for responsive web design",
+        "name": "Bootstrap",
+        "pic_url": "https://i.imgur.com/VgoB08x.png",
+        "tech_type": "Library, markup/CSS",
+        "url": "https://getbootstrap.com/"
+      }
+    ]
+  },
+  "ultimate-x-barn-siege-co-op": {
+    "id": 6,
+    "date": "June 6 2018",
+    "description": "Serious Gaming project for Via University",
+    "git_link": "https://github.com/raduorleanu/SGMProject",
+    "name": "ULTIMATE X-BARN SIEGE CO-OP",
+    "story": "SGM Project for semester 3. The requirements were to build a game that supported local multiplayer. Written in C# almost exclusively by Radu. The git repository only has the final version since Unity Colab was used.",
+    "web_link": "",
+    "media": "https://i.imgur.com/ilmaSgj.jpg",
+    "media_pre": "https://i.imgur.com/EQ0PO04.jpg",
+    "techs": [
+      {
+        "id": 5,
+        "description": "A programming language by Microsoft",
+        "name": "C#",
+        "pic_url": "https://i.imgur.com/4IZ0xKa.png",
+        "tech_type": "Compiled, programming language",
+        "url": "https://docs.microsoft.com/en-us/dotnet/csharp/"
+      }
+    ]
+  },
+  "up-and-abouts": {
+    "id": 7,
+    "date": "November 11 2018",
+    "description": "AND1 VIA Project",
+    "git_link": "",
+    "name": "Up and abouts",
+    "story": "Android 1 project I had for VIA. An app that people can synchronize and plan going out. It uses FoursquareAPI. ",
+    "web_link": "",
+    "media": "https://i.imgur.com/Ufm2Pr8.jpg",
+    "media_pre": "https://i.imgur.com/AD9hDyJ.jpg",
+    "techs": [
+      {
+        "id": 9,
+        "description": "A programming language by Sun/Oracle",
+        "name": "Java",
+        "pic_url": "https://i.imgur.com/DInGJq4.png",
+        "tech_type": "Compiled, programming language",
+        "url": "https://www.java.com/"
+      },
+      {
+        "id": 17,
+        "description": "A realtime database by Google, mostly used for mobile apps and web apps",
+        "name": "Firebase",
+        "pic_url": "https://i.imgur.com/hX9oLRT.png",
+        "tech_type": "NoSql Database",
+        "url": "https://firebase.google.com/"
+      },
+      {
+        "id": 18,
+        "description": "Mobile platform by Google",
+        "name": "Android",
+        "pic_url": "https://i.imgur.com/KSXDNQs.png",
+        "tech_type": "Mobile platform",
+        "url": "https://www.android.com/"
+      }
+    ]
+  }
+}
