@@ -1,4 +1,11 @@
 {
+  "SiteConfig": {
+    "siteTitle": "Radu's Portfolio",
+    "frontPage": "about",
+    "frontPagePath": "/about",
+    "useFrontPage": true,
+    "contactEmail": "raduorleanu@gmail.com"
+  },
   "employee-management-system": {
     "id": 1,
     "date": "June 6 2017",
